@@ -1,7 +1,7 @@
 # Project initial submission
 
 ## Instructions
-- Please upload a 2-pages project report named 'initial_report' (in PDF format) here.
+- Please upload a 2-pages project report named 'initial_report' here (in PDF format).
 - Make sure the report reflects your own understanding of the paper. Only relevant equations can be borrowed from the main paper.
 - Create another folder named 'Codes' (if you have already started the implementation, please submit the current version of the code here)
 - Code has to be done in MATLAB.
