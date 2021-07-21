@@ -21,6 +21,6 @@
 ```                     
 
 ## Deadline : 21/07/2021 by 11:59 PM
-```
-- <strong> Do not add any other folders </strong>.
+
+## Do not add any other folders
 
