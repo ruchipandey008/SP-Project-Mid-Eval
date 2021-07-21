@@ -10,7 +10,7 @@
 ```
  |_Inside cloned folder
      
-     |_ Report (only PDF file need not to be in separate folder)
+     |_ initial_report (only PDF file need not to be in separate folder)
      
      |_ Codes
                
