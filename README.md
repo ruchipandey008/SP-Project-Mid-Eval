@@ -9,8 +9,8 @@
 - Create another folder named 'Codes' (if you have already started the implementation, please submit the current version of code here)
 - Code has to be done in MATLAB.
 - Proper documentation is expected on how to run the files and explanation of the code.
-- 
-- ```
+
+```
  |_Inside cloned folder
      |_ Papers
      
